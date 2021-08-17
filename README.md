@@ -1,3 +1,3 @@
 # FastComputing
-<a href="goldpu.net"><img src="https://img.shields.io/badge/green?style=flat-square&logo=simpleicons에서_아이콘이름&logoColor=white&link=내링크"/></a>&nbsp
-![header](https://capsule-render.vercel.app/api?text=Real_Gold_Pu&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?text=FastGoldPu&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&text=%20FastGoldpu%20&height=300&fontSize=100&textBg=true)
