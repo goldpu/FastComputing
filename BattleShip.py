@@ -1,10 +1,14 @@
  # Checking the version of PYTHON; we only support > 3.5
+
+# pip install qiskit  and import qiskit takes few sec. Have a little patient
 import sys
 import qiskit
 
 # path to QConfig
 sys.path.append('../config/')
 
+
+# At least you have to use 3.5 or Greater version.  My Virtual env py -V = 3.5.6
 if sys.version_info < (3,5):
     raise Exception('Please use Python version 3.5 or greater.')
     
