@@ -1,4 +1,4 @@
- Checking the version of PYTHON; we only support > 3.5
+ #Checking the version of PYTHON; we only support > 3.5
 import sys
 import qiskit
 
