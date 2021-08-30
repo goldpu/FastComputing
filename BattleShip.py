@@ -1,8 +1,10 @@
  # Checking the version of PYTHON; we only support > 3.5
 
-# pip install qiskit  and import qiskit takes few sec. Have a little patient
+#  pip install qiskit  and import qiskit takes few sec. Have a little patient
 import sys
 import qiskit
+
+
 
 # path to QConfig
 sys.path.append('../config/')
