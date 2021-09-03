@@ -13,7 +13,8 @@ sys.path.append('../config/')
 # At least you have to use 3.5 or Greater version.  My Virtual env py -V = 3.5.6
 if sys.version_info < (3,5):
     raise Exception('Please use Python version 3.5 or greater.')
-    
+
+#1st error found! canot import QuantumProgramv    
 from qiskit import QuantumProgram
 import Qconfig
 
