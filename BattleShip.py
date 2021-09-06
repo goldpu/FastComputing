@@ -14,7 +14,10 @@ sys.path.append('../config/')
 if sys.version_info < (3,5):
     raise Exception('Please use Python version 3.5 or greater.')
 
-#1st error found! canot import QuantumProgramv    
+#1st error found! canot import QuantumProgram
+
+# 0.6 넘어가면서 임포트 퀀텀프로그램이 삭제되었어. 임포트 빠지면 퀴스킷으로 그냥 진행되는지 알려줘야할꺼아냐
+# 되는지 안되는지 모르겠구만
 from qiskit import QuantumProgram
 import Qconfig
 
